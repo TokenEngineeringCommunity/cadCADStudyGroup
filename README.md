@@ -1,2 +1,2 @@
-# cadCadStudyGroup
-Repo for cadCad study group resources
+# cadCADStudyGroup
+Repo for cadCAD study group resources
