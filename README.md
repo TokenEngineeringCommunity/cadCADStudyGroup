@@ -5,6 +5,7 @@ book from
 
 ## Table of Contents
   - [About The Group](#about-the-group)
+  - [When & Where](#when-where)
   - [Squad Goals](#squad-goals)
   - [How it Works](#how-it-works)
     - [Sprints](#sprints)
@@ -20,6 +21,12 @@ This study group is a peer to peer learning study group, that meets weekly to ex
 
 The prereqs
 are none, just an open mind and a willingness to learn. Some python is useful, we'll go over a few tips 'n' tricks in the beginning.
+
+### When Where
+- Where: [Discord Voice Channel](https://discord.gg/BSrZUxUuXq)
+- When: Tuesdays 5pm-6pm UTC
+- Starts: August 9th 2022
+
 
 ### Squad Goals
 
