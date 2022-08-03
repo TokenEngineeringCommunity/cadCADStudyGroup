@@ -1,8 +1,9 @@
 from cadCAD.configuration.utils import config_sim
 
-from model.experiment import exp
-from model.params import SIM_CONFIG, GENESIS_STATES
-from model.structure import PARTIAL_STATE_UPDATE_BLOCKS
+from templates.cadcad.model.experiment import exp
+from templates.cadcad.model.params import SIM_CONFIG, GENESIS_STATES
+from templates.cadcad.model.structure import PARTIAL_STATE_UPDATE_BLOCKS
+
 
 
 sim_params = config_sim(SIM_CONFIG)
