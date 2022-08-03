@@ -6,6 +6,7 @@ from templates.cadcad.model.structure import PARTIAL_STATE_UPDATE_BLOCKS
 
 
 
+model_dir ="templates.cadcad.model"
 sim_params = config_sim(SIM_CONFIG)
 exp.append_configs(
     sim_configs=sim_params,
