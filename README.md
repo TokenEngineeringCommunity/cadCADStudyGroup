@@ -122,12 +122,12 @@ Cadcad, Token Engineering Academy, QuietCatalyst, Ratio13, elbeth, Phacker and t
 
 
 [Sayama]: https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems
-[Sprint 0.0]: ./pm/sprints/sprint_0_0/sprint_0_0.md  
-[Sprint 0.5]: ./pm/sprints/sprint_0_5/sprint_0_5.md  
-[Sprint 1.0]: ./pm/sprints/sprint_1_0/sprint_1_0.md  
-[Sprint 1.5]: ./pm/sprints/sprint_1_5/sprint_1_5.md  
-[Sprint 2.0]: ./pm/sprints/sprint_2_0/sprint_2_0.md  
-[Sprint 2.5]: ./pm/sprints/sprint_2_5/sprint_2_5.md  
-[Sprint 3.0]: ./pm/sprints/sprint_3_0/sprint_3_0.md  
-[Sprint 3.5]: ./pm/sprints/sprint_3_5/sprint_3_5.md  
-[Sprint 4.0]: ./pm/sprints/sprint_4_0/sprint_4_0.md  
+[Sprint 0.0]: ./pm/sprints/sprint_0_0/README.md  
+[Sprint 0.5]: ./pm/sprints/sprint_0_5/README.md  
+[Sprint 1.0]: ./pm/sprints/sprint_1_0/README.md  
+[Sprint 1.5]: ./pm/sprints/sprint_1_5/README.md  
+[Sprint 2.0]: ./pm/sprints/sprint_2_0/README.md  
+[Sprint 2.5]: ./pm/sprints/sprint_2_5/README.md  
+[Sprint 3.0]: ./pm/sprints/sprint_3_0/README.md  
+[Sprint 3.5]: ./pm/sprints/sprint_3_5/README.md  
+[Sprint 4.0]: ./pm/sprints/sprint_4_0/README.md  
