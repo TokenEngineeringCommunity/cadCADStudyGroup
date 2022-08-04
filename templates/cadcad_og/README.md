@@ -1,10 +1,8 @@
-### Simple Cadcad template project using cadcadTools
+### Simple Cadcad template project using cadcad
 ### Summary
 Project just serves as a framework for layout cadcad projects in a way compatible with 0.4.28 of cadcad.
-this repo uses cadcadTools. We choose cadcadTools as a stop gap between 0.4.28 and the new reference implementation of 
-cadcad. The motivation behind this is that the new reference implementation uses types and reduces complexity alot. This
-can be seen as a stepping stone towards that end.
-
+It partitions the data in a way to allow for more portability of your data, and to back up your simulation runs.
+Extending this with pytest isn't a far leap. 
 
 ### Installation
 ```

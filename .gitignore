@@ -1,2 +1,5 @@
 venv
 notes
+*.gz
+*.pyc
+__pycache__
