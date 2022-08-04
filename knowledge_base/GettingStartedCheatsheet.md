@@ -36,11 +36,16 @@ math operations on vectors/matricies/list of data.
 ### Matplotlib or Plotly
 Both are great options, modellers choice. 
 The text uses an outdated version of [matplotlib](https://matplotlib.org/)
+Slightly slicker plotting production [plotly](https://github.com/plotly/plotly.py)
 
 ### Jupyter Notebook
 For this study group we have a great getting started [notebook](../templates/python/simple.ipynb)
 and also a way to start evolving our setup with [notebook](../templates/cadcad_tools/mpp_example.ipynb) cribbed from 
 the [cadcad tools repo](https://github.com/cadCAD-org/cadCAD-tools).
+
+### Token Engineering Tools
+Just a quick link to overview of token engineering toolinng. 
+[Tools](https://github.com/TokenEngineeringCommunity/summary-of-tools)
 
 ### Useful Python Topics
 [List Comprehensios](https://www.learnpython.org/en/List_Comprehensions)
