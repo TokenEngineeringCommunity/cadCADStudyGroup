@@ -1,48 +1,34 @@
 ### Notes
-# Sprint 0.0
+# Sprint 1.5
 
 ### Readings
-None This week
+Chapter 3, 4.1 [Sayama] 
 
 ### Session Questions and answers
 [Q&A cryptpad](https://cryptpad.fr)
 
 ### Goals
- - Meet and Greet
- - What do you want to get out of the group?
- - Talk about we're going with the group and format
- - Intro to setting up python environment // Simple model for this 
- - Intro to setting up cadcad // Simple model for this 
- - How to create a model from observation (Optional)?
- - What is a model?
+ - Recap on what we talked aobut last week
+ - Understand what a state variable is
+ - Understand what phase space is
 
 
 ### Topic Discussion Suggestions
-- What do we want to get out of the group?
-- Setup for python environment
-- Key python snippets or patterns
-    - list comprehension
-    - plotting (matplotlib)
-    - pandas dataframe
-    - numpy intro
-    - python typings
-- Jupyter notebook intro 
-    - Should include setup environment
-
-- What is a model?
-- Cadcad intro installation
-- Why/When to use a model - thoughts
-- Creating a model from observation(Optional) ?
+- Q&A
+- How do we use phase space to understand a system 
+- How do we visualize phase space, and what should we plot
+- What is a state variable and how do they operate
 
 ### Practice (Group Exercise)
-- Verifying our setups work
+Can we create a visualization of the phase space of a [bonding curve](https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a)
 
 ### Async Learning
-- Post a question in the cryptpad 
+How does the shape of our visualization change if there is a separate sell and buy curve?  
 
 
 ### Next Week
-Next week we will be covering how to create models from observation and create our first token model. Jump ahead [here](../sprint_0_5.md)
+Next week we will be talking with an expert about interpeting model behavior. Jump ahead [here](../sprint_2_0/README.md)
  
 
 
+[Sayama]: https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems

@@ -1,48 +1,42 @@
 ### Notes
-# Sprint 0.0
+# Sprint 0.5
 
 ### Readings
-None This week
+Chapter 1,2 [Sayama]
 
 ### Session Questions and answers
 [Q&A cryptpad](https://cryptpad.fr)
 
 ### Goals
- - Meet and Greet
- - What do you want to get out of the group?
- - Talk about we're going with the group and format
- - Intro to setting up python environment // Simple model for this 
- - Intro to setting up cadcad // Simple model for this 
- - How to create a model from observation (Optional)?
- - What is a model?
+ - Recap last week
+ - Describe what is a model
+ - What are the limits of a model
+ - Create a model from observation 
 
 
 ### Topic Discussion Suggestions
 - What do we want to get out of the group?
 - Setup for python environment
-- Key python snippets or patterns
-    - list comprehension
-    - plotting (matplotlib)
-    - pandas dataframe
-    - numpy intro
-    - python typings
 - Jupyter notebook intro 
-    - Should include setup environment
-
-- What is a model?
 - Cadcad intro installation
-- Why/When to use a model - thoughts
-- Creating a model from observation(Optional) ?
 
 ### Practice (Group Exercise)
-- Verifying our setups work
+Looking at the growth of the NFT market how would we go about creating a very simple model to describe this market.
+[![snapshot](snapshot.png)] as describe [here](https://dune.com/queries/201622/376266)
+and
+[![snapshot](snapshot2.png)] as describe [here](https://dune.com/queries/419712/800264)
 
-### Async Learning
-- Post a question in the cryptpad 
+Let's compare our models in terms of simplicity, validity and robustness.
+
+
+### Async Learning (Bonus)
+- Looking at these [charts](https://dune.com/hildobby/Gas) . Do our models make sense in the long run. If you're curious,
+have a look at the actual process behind the gas price, did our model capture alot of the factors at play? What'd we miss?
 
 
 ### Next Week
-Next week we will be covering how to create models from observation and create our first token model. Jump ahead [here](../sprint_0_5.md)
+Next week we will be talking w/ expert about extracting information from observations. Jump ahead [here](../sprint_1_0/README.md)
  
 
 
+[Sayama]: https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems
