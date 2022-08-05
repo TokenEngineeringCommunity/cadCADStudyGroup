@@ -97,7 +97,8 @@ This section contains the summary information for each of the weeks, including t
 
 |Sprint| Topics | Readings|Date|
 --- | --- | ---| ---|
-|[Sprint 0.0] |Intros & Python Setup| [Cheatsheet](./knowledge_base/Cheatsheet.md) |08-09-22
+
+|[Sprint 0.0] |Intros & Python Setup, Meet and Greet | [Getting Started Cheatsheet](./knowledge_base/GettingStartedCheatsheet.md) |08-09-22
 |[Sprint 0.5] |What is a Model, Building Models from Observation| Chapter 1,2 of [Sayama]| 08-16-22
 |[Sprint 1.0] |Model From Observation w/ Expert| TBA |08-23-22
 |[Sprint 1.5] |Phase Space + State Variables|Ch 3, 4.1 [Sayama],  |08-30-22
