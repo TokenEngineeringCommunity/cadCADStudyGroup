@@ -1,7 +1,6 @@
 # Intro to Complex Systems w/ Tokens Study Group
 
 A peer to peer learning study group that meets weekly to explore Complex Systems Modeling w/ Tokens.
-book from  
 
 ## Table of Contents
   - [About The Group](#about-the-group)
@@ -12,6 +11,7 @@ book from
     - [Q&A](#q&a)
     - [Projects](#projects)
     - [Contributions](#contributions)
+  - [Schedule](#schedule)
   - [Getting Started](#getting-started)
   - [Discord](https://discord.gg/BSrZUxUuXq)
 
@@ -19,8 +19,7 @@ book from
 
 This study group is a peer to peer learning study group, that meets weekly to explore Complex Systems Modeling with Tokens. We use the free CC0 book [Intro to Complex Systems](https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/) to ground our exploration of topics. 
 
-The prereqs
-are none, just an open mind and a willingness to learn. Some python is useful, we'll go over a few tips 'n' tricks in the beginning.
+The prereqs are none just an open mind and a willingness to learn. Some python is super useful, we'll go over a few tips 'n' tricks in the beginning. The math will be fairly light, but can scale with knowledge level.
 
 ### When Where
 - Where: [Discord Voice Channel](https://discord.gg/BSrZUxUuXq)
@@ -93,9 +92,20 @@ The goal is to figure out what's working or not and adjust. Let's be flexible an
 - *cadcad* is a simple example template that allows you to spin up cadcad with as little overhead as possible
 
 ### Schedule
-(Coming Soon)
 
-This section will contain all the information needed for each of the weeks, including topics and any readings (Guest)
+This section contains the summary information for each of the weeks, including topics and any readings (Guest). Just click the Sprint to find details for the Sprint.
+
+|Sprint| Topics | Readings|Date|
+--- | --- | ---| ---|
+|[Sprint 0.0] |Intros & Python Setup, Meet and Greet | [Getting Started Cheatsheet](./knowledge_base/GettingStartedCheatsheet.md) |08-09-22
+|[Sprint 0.5] |What is a Model, Building Models from Observation| Chapter 1,2 of [Sayama]| 08-16-22
+|[Sprint 1.0] |Model From Observation w/ Expert| TBA |08-23-22
+|[Sprint 1.5] |Phase Space + State Variables|Ch 3, 4.1 [Sayama],  |08-30-22
+|[Sprint 2.0] |Understanding Model Behavior w/ Expert TBD | TBA |09-06-22
+|[Sprint 2.5] |Model to Equations to Simulation|Ch 4.2-4.6 [Sayama], [Casual Loop Diagram](https://online.visual-paradigm.com/knowledge/causal-loop-diagram/what-is-causal-loop-diagram),[Stock & Flow Diagrams](https://thesystemsthinker.com/step-by-step-stocks-and-flows-improving-the-rigor-of-your-thinking/)|09-13-22|
+[Sprint 3.0] |Model to Equations w/Expert| TBA|09-20-22
+|[Sprint 3.5] |Creating a Staking Model| Optional Ch 5.1, 5.6, 5.7 [Sayama]|09-27-22
+|[Sprint 4.0] |Staking Model w/ Expert| None|10-03-22
 
 ### Getting Started
 - Useful things install python 3.10
@@ -106,3 +116,16 @@ This section will contain all the information needed for each of the weeks, incl
 Cadcad, Token Engineering Academy, QuietCatalyst, Ratio13, elbeth, Phacker and those that have just popped into the chat in the past.
 
 ### Let's Go!!!!
+
+
+
+[Sayama]: https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems
+[Sprint 0.0]: ./pm/sprints/sprint_0_0/README.md  
+[Sprint 0.5]: ./pm/sprints/sprint_0_5/README.md  
+[Sprint 1.0]: ./pm/sprints/sprint_1_0/README.md  
+[Sprint 1.5]: ./pm/sprints/sprint_1_5/README.md  
+[Sprint 2.0]: ./pm/sprints/sprint_2_0/README.md  
+[Sprint 2.5]: ./pm/sprints/sprint_2_5/README.md  
+[Sprint 3.0]: ./pm/sprints/sprint_3_0/README.md  
+[Sprint 3.5]: ./pm/sprints/sprint_3_5/README.md  
+[Sprint 4.0]: ./pm/sprints/sprint_4_0/README.md  
