@@ -102,7 +102,7 @@ This section contains the summary information for each of the weeks, including t
 |[Sprint 1.0] |Model From Observation w/ Expert| TBA |08-23-22
 |[Sprint 1.5] |Phase Space + State Variables|Ch 3, 4.1 [Sayama],  |08-30-22
 |[Sprint 2.0] |Understanding Model Behavior w/ Expert TBD | TBA |09-06-22
-|[Sprint 2.5] |Model to Equations to Simulation| Ch 4.2-4.6 [Sayama], [CLD](https://online.visual-paradigm.com/knowledge/causal-loop-diagram/what-is-causal-loop-diagram), [Stock & Flow Diagrams](https://thesystemsthinker.com/step-by-step-stocks-and-flows-improving-the-rigor-of-your-thinking/)|09-13-22|
+|[Sprint 2.5] |Model to Equations to Simulation| Ch 4.2-4.6 [Sayama], [CLD](https://online.visual-paradigm.com/knowledge/causal-loop-diagram/what-is-causal-loop-diagram), [Stock & Flow](https://thesystemsthinker.com/step-by-step-stocks-and-flows-improving-the-rigor-of-your-thinking/)|09-13-22|
 [Sprint 3.0] |Model to Equations w/Expert| TBA|09-20-22
 |[Sprint 3.5] |Creating a Staking Model| Optional Ch 5.1, 5.6, 5.7 [Sayama]|09-27-22
 |[Sprint 4.0] |Staking Model w/ Expert| None|10-03-22
