@@ -2,8 +2,7 @@
 # Sprint 2.5
 
 ### Readings
-Chapter 4.2 - 4.6 [Sayama] , [Loop Diagrams](https://online.visual-paradigm.com/knowledge/causal-loop-diagram/what-is-causal-loop-diagram/)
-[Stock and Flow Diagrams](https://thesystemsthinker.com/step-by-step-stocks-and-flows-improving-the-rigor-of-your-thinking/)
+Chapter 4.2 - 4.6 [Sayama] , [Loop Diagrams](https://online.visual-paradigm.com/knowledge/causal-loop-diagram/what-is-causal-loop-diagram/), [Stock and Flow Diagrams](https://thesystemsthinker.com/step-by-step-stocks-and-flows-improving-the-rigor-of-your-thinking/)
 
 ### Session Questions and answers
 [Q&A cryptpad](https://cryptpad.fr)
