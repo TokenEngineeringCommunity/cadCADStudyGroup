@@ -1,7 +1,6 @@
 # Intro to Complex Systems w/ Tokens Study Group
 
 A peer to peer learning study group that meets weekly to explore Complex Systems Modeling w/ Tokens.
-book from  
 
 ## Table of Contents
   - [About The Group](#about-the-group)
@@ -20,8 +19,7 @@ book from
 
 This study group is a peer to peer learning study group, that meets weekly to explore Complex Systems Modeling with Tokens. We use the free CC0 book [Intro to Complex Systems](https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/) to ground our exploration of topics. 
 
-The prereqs
-are none, just an open mind and a willingness to learn. Some python is useful, we'll go over a few tips 'n' tricks in the beginning.
+The prereqs are none just an open mind and a willingness to learn. Some python is super useful, we'll go over a few tips 'n' tricks in the beginning. The math will be fairly light, but can scale with knowledge level.
 
 ### When Where
 - Where: [Discord Voice Channel](https://discord.gg/BSrZUxUuXq)
