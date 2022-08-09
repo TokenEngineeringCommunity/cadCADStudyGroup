@@ -5,7 +5,7 @@
 None This week
 
 ### Session Questions and answers
-[Q&A cryptpad](https://cryptpad.fr)
+[Q&A cryptpad](https://cryptpad.fr/code/#/2/code/edit/m+Z307+8cMrzRkEQHU0MBWtU/)
 
 ### Goals
  - Meet and Greet
