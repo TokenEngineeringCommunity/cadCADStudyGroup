@@ -2,21 +2,19 @@
 # Sprint 1.0
 
 ### Readings
-TBA
+Ch. 2 of Sayama
 
 ### Session Questions and answers
-[Q&A cryptpad TBA](https://cryptpad.fr)
+https://cryptpad.fr/code/#/2/code/edit/uzqdh56RpYp8rU6k1Vxdh1tb/
 
 ### Goals
- - Recap 
- - Q&A
- - Expert insights
+ - Recap Ch. 2 
+ - Continuation and completion of sprint 0.5  
  - Housekeeping
 
 
 ### Topic Discussion Suggestions
  - Q&A w/ Expert
- - Expert insights
  - Housekeeping
 
 ### Housekeeping 

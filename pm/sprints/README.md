@@ -13,7 +13,7 @@ Here's a quick breakdown of the sprints and quick click directory.
 --- | --- | ---| ---|
 |[Sprint 0.0] |Intros & Python Setup, Meet and Greet | [Getting Started Cheatsheet](../../knowledge_base/GettingStartedCheatsheet.md) |08-09-22
 |[Sprint 0.5] |What is a Model, Building Models from Observation| Chapter 1,2 of [Sayama]| 08-16-22
-|[Sprint 1.0] |Building Models From Observation w/ Expert| TBA |08-23-22
+|[Sprint 1.0] |Sprint 0.5 part 2| Continuation of Ch 2 |08-23-22
 |[Sprint 1.5] |Phase Space + State Variables|Ch 3, 4.1 [Sayama] |08-30-22
 |[Sprint 2.0] |Understanding Model Behavior w/ Expert TBD | TBA |09-06-22
 |[Sprint 2.5] |Model to Equations to Simulation| Ch 4.2-4.6 [Sayama] |09-13-22
