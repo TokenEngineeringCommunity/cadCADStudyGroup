@@ -97,10 +97,10 @@ This section contains the summary information for each of the weeks, including t
 
 |Sprint| Topics | Readings|Date|
 --- | --- | ---| ---|
-|[Sprint 0.0] |Intros & Python Setup, Meet and Greet | [Getting Started Cheatsheet](./knowledge_base/GettingStartedCheatsheet.md) |08-09-22
-|[Sprint 0.5] |What is a Model, Building Models from Observation| Chapter 1,2 of [Sayama]| 08-16-22
-|[Sprint 1.0] |Ch 2 part 2. ~~ Expert Session~~| Ch. 2 of [Sayama] |08-23-22
-|[Sprint 1.5] |Phase Space + State Variables|Ch 3, 4.1 [Sayama],  |08-30-22
+|[Sprint 0.0] |Intros & Python Setup, Meet and Greet [Video](https://youtu.be/CoCMnMcxbvA)| [Getting Started Cheatsheet](./knowledge_base/GettingStartedCheatsheet.md) |08-09-22
+|[Sprint 0.5] |What is a Model, Building Models from Observation [Video](https://youtu.be/CoCMnMcxbvA)| Chapter 1,2 of [Sayama]| 08-16-22
+|[Sprint 1.0] |Ch 2 part 2. ~~ Expert Session~~ [Video](https://youtu.be/Xzhl0vYfWt4)| Ch. 2 of [Sayama] |08-23-22
+|[Sprint 1.5] |Phase Space + State Variables [Video](https://youtu.be/pXR_wxMZuq8)|Ch 3, 4.1 [Sayama],  |08-30-22
 |[Sprint 2.0] |Understanding Model Behavior w/ Expert TBD | TBA |09-06-22
 |[Sprint 2.5] |Model to Equations to Simulation|Ch 4.2-4.6 [Sayama], [Casual Loop Diagram](https://online.visual-paradigm.com/knowledge/causal-loop-diagram/what-is-causal-loop-diagram),[Stock & Flow Diagrams](https://thesystemsthinker.com/step-by-step-stocks-and-flows-improving-the-rigor-of-your-thinking/)|09-13-22|
 [Sprint 3.0] |Model to Equations w/Expert| TBA|09-20-22
