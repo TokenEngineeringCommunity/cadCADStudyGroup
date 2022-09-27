@@ -102,7 +102,7 @@ This section contains the summary information for each of the weeks, including t
 |[Sprint 1.0] |Ch 2 part 2. ~~ Expert Session~~ [Video](https://youtu.be/Xzhl0vYfWt4)| Ch. 2 of [Sayama] |08-23-22
 |[Sprint 1.5] |Phase Space + State Variables [Video](https://youtu.be/pXR_wxMZuq8)|Ch 3, 4.1 [Sayama],  |08-30-22
 |[Sprint 2.0] |Phase Space part 2 + Staking Discussion [Video](https://www.youtube.com/watch?v=U-AshyiLTQ8) | Ch 3 [Sayama] |09-06-22
-|[Sprint 2.5] |State Variables [Video](https://youtu.be/6ikr8bAyNWc)|Ch 4.1-4.3 [Sayama]09-13-22|
+|[Sprint 2.5] |State Variables [Video](https://youtu.be/6ikr8bAyNWc)|Ch 4.1-4.3 [Sayama]| 09-13-22|
 [Sprint 3.0] |Models to Equations [Video](https://youtu.be/eETubeELh78)| ch 4.3-4.5 [Sayama] |09-27-22
 |[Sprint 3.5] |Models to Equations pt 2| ch 4.5-4.7 [Sayama], [Casual Loop Diagram](https://online.visual-paradigm.com/knowledge/causal-loop-diagram/what-is-causal-loop-diagram),[Stock & Flow Diagrams](https://thesystemsthinker.com/step-by-step-stocks-and-flows-improving-the-rigor-of-your-thinking/)|10-03-22
 |[Sprint 4.0] |Building a Model mechanics to reality Cadcad overview | None|10-10-22
@@ -130,3 +130,4 @@ Cadcad, Token Engineering Academy, QuietCatalyst, Ratio13, elbeth, Phacker and t
 [Sprint 3.0]: ./pm/sprints/sprint_3_0/README.md  
 [Sprint 3.5]: ./pm/sprints/sprint_3_5/README.md  
 [Sprint 4.0]: ./pm/sprints/sprint_4_0/README.md  
+[Sprint 4.5]: ./pm/sprints/sprint_4_0/README.md  
