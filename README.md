@@ -105,8 +105,9 @@ This section contains the summary information for each of the weeks, including t
 |[Sprint 2.5] |State Variables [Video](https://youtu.be/6ikr8bAyNWc)|Ch 4.1-4.3 [Sayama]| 09-13-22|
 [Sprint 3.0] |Models to Equations [Video](https://youtu.be/eETubeELh78)| ch 4.3-4.5 [Sayama] |09-27-22
 |[Sprint 3.5] |Models to Equations pt 2 [Video](https://youtu.be/HqHT29613BE)| ch 4.5-4.7 [Sayama], [Casual Loop Diagram](https://online.visual-paradigm.com/knowledge/causal-loop-diagram/what-is-causal-loop-diagram),10-04-22
-|[Sprint 4.0] |Building a Model mechanics to reality Cadcad overview | [Stock & Flow Diagrams](https://thesystemsthinker.com/step-by-step-stocks-and-flows-improving-the-rigor-of-your-thinking/) , None|10-11-22
-|[Sprint 4.5] |Building a Model| Optional Ch 5.1, 5.6, 5.7 [Sayama]|10-18-22
+|[Sprint 4.0] |Building a Model mechanics to reality Cadcad overview [Video](https://youtu.be/XFQXhCg-Uss)| [Stock & Flow Diagrams](https://thesystemsthinker.com/step-by-step-stocks-and-flows-improving-the-rigor-of-your-thinking/) ch. None|10-11-22
+|[Sprint 4.5] |Building a AMM model step by step| ch None|10-18-22
+|[Sprint 5.0] |Iterating |Optional Ch 5.1, 5.6, 5.7 [Sayama] | 10-25-22
 
 ### Getting Started
 - Useful things install python 3.10
