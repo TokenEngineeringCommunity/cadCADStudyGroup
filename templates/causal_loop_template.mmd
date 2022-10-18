@@ -1,0 +1,26 @@
+
+%%{init: {'themeVariables': {}}}%%
+%% comments 
+%% This diagram details the graph
+
+graph LR 
+  %% :::tr is the class definition that styles a node
+  %% the format is nameOfNode[Node label]:::stylingclass
+
+  %% node definition section
+  potentialAdopters[Potential adopters]:::tr
+  adoptionRate[Adoption rate]:::tr
+  adopters[Adopters]:::tr
+
+
+  %% --> defines the relationship arrow directionn
+  %% |+ or -| definnes the type of correlation 
+  %% relationship definition section
+
+  potentialAdopters --> |+| adoptionRate
+  adoptionRate --> |-| potentialAdopters
+  adoptionRate -->  |+| adopters
+  adopters --> |+| adoptionRate
+
+%% class def at the bottom adds a transparecy to the nodes
+  classDef tr fill:#00000000, stroke:#00000000;

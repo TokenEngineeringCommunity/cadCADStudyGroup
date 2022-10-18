@@ -1,0 +1,43 @@
+%%{init: {'themeVariables': {}}}%%
+%% comments 
+%% This diagram details the graph
+
+graph LR 
+  %% :::tr is the class definition that styles a node
+  %% the format is nameOfNode[Node label]:::stylingclass
+
+  %% node definition section
+  traders[Traders]:::tr 
+  tradeA[Trade A]:::tr
+  tradeB[Trade B]:::tr
+  numA[Num tokens A]:::tr
+  numB[Num tokens B]:::tr 
+  lProvider[Liquidity Provider]:::tr
+  lFee[Liquidity Fee Reward]:::tr
+  secondaryReward[Secondary Reward]:::tr 
+
+
+
+  %% --> defines the relationship arrow directionn
+  %% |+ or -| definnes the type of correlation 
+  %% relationship definition section
+  traders --> |+| tradeA
+  traders --> |+| tradeB
+  tradeA -->|-| numA
+  tradeA -->|+| numB
+  tradeB -->|-| numB
+  tradeB -->|+| numA
+  numA -->|+| traders
+  numB -->|+| traders
+  tradeA --> |+| lFee
+  tradeB --> |+| lFee
+  lFee --> |+| lProvider
+  lProvider --> |+| numA
+  lProvider --> |+| numB
+  lProvider --> |-| lFee
+  secondaryReward --> |-| lProvider
+  secondaryReward --> |-| traders
+
+
+%% class def at the bottom adds a transparecy to the nodes
+  classDef tr fill:#00000000, stroke:#00000000;
