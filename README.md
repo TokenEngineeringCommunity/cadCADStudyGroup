@@ -107,9 +107,11 @@ This section contains the summary information for each of the weeks, including t
 |[Sprint 3.5] |Models to Equations pt 2 [Video](https://youtu.be/HqHT29613BE)| ch 4.5-4.7 [Sayama], [Casual Loop Diagram](https://online.visual-paradigm.com/knowledge/causal-loop-diagram/what-is-causal-loop-diagram)| 10-04-22
 |[Sprint 4.0] |Building a Model mechanics to reality Cadcad overview [Video](https://youtu.be/XFQXhCg-Uss)| [Stock & Flow Diagrams](https://thesystemsthinker.com/step-by-step-stocks-and-flows-improving-the-rigor-of-your-thinking/) ch. None|10-11-22
 |[Sprint 4.5] |Building a AMM model step by step [Video](https://youtu.be/dY9TjH3XSWk)| ch None|10-18-22
-|[Sprint 5.0] |Iterating on the AMM model |ch None | 10-25-22
-|[Sprint 5.5] |Iterating on the AMM model |Optional Ch 5.1, 5.6, 5.7 [Sayama] | 11-03-22
-
+|[Sprint 5.0] |Iterating on the AMM model [Video](https://youtu.be/sptrce3mrww) |ch None | 10-25-22
+|[Sprint 5.5] |Iterating on the AMM model [Video](https://youtu.be/oM42UJt2ASA)  | |11-01-22
+|[Sprint 6.0] |Uniswap whitepaper v2 [Video](tbd) |[V2 uniswap](https://uniswap.org/whitepaper.pdf) | 11-08-22
+|[Sprint 6.5] |Uniswap whitepaper v2 cont [Video](tbd) |[V2 uniswap](https://uniswap.org/whitepaper.pdf) | 11-15-22
+|[Sprint 7.0] ||Optional Ch 5.1, 5.6, 5.7 [Sayama]|
 ### Getting Started
 - Useful things install python 3.10
 - VSCode/VSCodium or some IDE that's easy to use with python
