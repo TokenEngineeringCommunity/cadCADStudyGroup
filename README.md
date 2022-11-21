@@ -109,9 +109,9 @@ This section contains the summary information for each of the weeks, including t
 |[Sprint 4.5] |Building a AMM model step by step [Video](https://youtu.be/dY9TjH3XSWk)| ch None|10-18-22
 |[Sprint 5.0] |Iterating on the AMM model [Video](https://youtu.be/sptrce3mrww) |ch None | 10-25-22
 |[Sprint 5.5] |Iterating on the AMM model [Video](https://youtu.be/oM42UJt2ASA)  | |11-01-22
-|[Sprint 6.0] |Uniswap whitepaper v2 [Video](tbd) |[V2 uniswap](https://uniswap.org/whitepaper.pdf) | 11-08-22
-|[Sprint 6.5] |Uniswap whitepaper v2 cont [Video](tbd) |[V2 uniswap](https://uniswap.org/whitepaper.pdf) | 11-15-22
-|[Sprint 7.0] ||Optional Ch 5.1, 5.6, 5.7 [Sayama]|
+|[Sprint 6.0] |Uniswap whitepaper v2 [Video](https://youtu.be/45Bo8m54VLY) |[V2 uniswap](https://uniswap.org/whitepaper.pdf) | 11-08-22
+|[Sprint 6.5] |Uniswap whitepaper v2 cont [Video](https://youtu.be/9_7X4aoEal4) |[V2 uniswap](https://uniswap.org/whitepaper.pdf) | 11-15-22
+|[Sprint 7.0] |Uniswap v2 cont|Optional Ch 5.1, 5.6, 5.7 [Sayama]| 11-22-22
 ### Getting Started
 - Useful things install python 3.10
 - VSCode/VSCodium or some IDE that's easy to use with python
