@@ -111,8 +111,8 @@ This section contains the summary information for each of the weeks, including t
 |Sprint 5.5 |Iterating on the AMM model [Video](https://youtu.be/oM42UJt2ASA)  | |11-01-22
 |Sprint 6.0 |Uniswap whitepaper v2 [Video](https://youtu.be/45Bo8m54VLY) |[V2 uniswap](https://uniswap.org/whitepaper.pdf) | 11-08-22
 |Sprint 6.5 |Uniswap whitepaper v2 cont [Video](https://youtu.be/9_7X4aoEal4) |[V2 uniswap](https://uniswap.org/whitepaper.pdf) | 11-15-22
-|Sprint 7.0 |Bondend Token Surface [Video](https://youtu.be/p-o2dNMhFn0)|[Sayama]| 12-06-22
-|Sprint 7.5 |Bondend Token Surface Pt. 2 [Video](https://youtu.be/ntPNaDyaukQ)|[Sayama]| 12-13-22
+|Sprint 7.0 |Bondend Token Surface [Video](https://youtu.be/p-o2dNMhFn0)|[Bonded]| 12-06-22
+|Sprint 7.5 |Bondend Token Surface Pt. 2 [Video](https://youtu.be/ntPNaDyaukQ)|[Bonded]| 12-13-22
 ### Getting Started
 - Useful things install python 3.10
 - VSCode/VSCodium or some IDE that's easy to use with python
@@ -126,6 +126,7 @@ Cadcad, Token Engineering Academy, QuietCatalyst, Ratio13, elbeth, Phacker and t
 
 
 [Sayama]: https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems
+[Bonded]: https://ostable.org/bonded-stablecoins.pdf
 [Sprint 0.0]: ./pm/sprints/sprint_0_0/README.md  
 [Sprint 0.5]: ./pm/sprints/sprint_0_5/README.md  
 [Sprint 1.0]: ./pm/sprints/sprint_1_0/README.md  
