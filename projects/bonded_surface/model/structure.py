@@ -12,6 +12,16 @@ def p_evolve_time(params: ModelParams,
                   _4):
     return {'delta_in_days': params['timestep_in_days']}
 
+def p_growth_policy(params: ModelParams,
+_2,
+_3,
+state: ModelState): 
+    rm_traders= []
+    add_traders= []
+    if(len(state['active_traders'])) < 0:
+      add_traders = params['growth_scenario'].generateTraders()
+    return {'rm_traders': rm_traders, 'add_traders': add_traders}
+
 #state updates 
 def s_days_passed(_1,
                   _2,
@@ -41,4 +51,12 @@ PARTIAL_STATE_UPDATE_BLOCKS = [
             'delta_days': s_delta_days,
         }
     },
+    {
+      'label': 'Trader Population Management',
+      'policies': {
+          'growth_policy': p_growth_policy,
+      },
+      'variables': {
+      }
+    }
 ]

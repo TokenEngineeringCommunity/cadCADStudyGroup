@@ -12,11 +12,13 @@ SIMULATION_TIME_IN_YEARS = 5
 INITIAL_DAYS = 0
 
 action_scenario = types.ActionScenario()
+growth_scenario = types.TraderGrowthScenario(growthType='flat')
 
 MODEL_SWEEP_PARAMS = types.ModelSweepParams(
     timestep_in_days=[DAYS_PER_TIMESTEP],
     initial_reserve= [0.05],
-    action_scenario=[action_scenario]
+    action_scenario=[action_scenario],
+    growth_scenario=[growth_scenario]
 )
 
 
@@ -32,7 +34,8 @@ GENESIS_STATES: types.ModelState = {
     'pv': 0.0,
     'r': 0.0,
     'ss': 0.0,
-    'sv':0.0
+    'sv':0.0,
+    'active_traders': []
 }
 
 
