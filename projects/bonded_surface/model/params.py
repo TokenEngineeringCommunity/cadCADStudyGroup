@@ -28,13 +28,13 @@ SYS_PARAMS = {
 
 GENESIS_STATES: types.ModelState = {
     'days_passed': INITIAL_DAYS,
-    'mcs': 0.0,
-    'mcv': 0.0,
-    'ps': 0.0,
-    'pv': 0.0,
-    'r': 0.0,
-    'ss': 0.0,
-    'sv':0.0,
+    'mcs': 500000.0,
+    'mcv': ,
+    'ps': 1.0,
+    'pv': 53182.96,
+    'r': 1000000.0, 
+    'ss': 500000,
+    'sv':37.606031,
     'active_traders': []
 }
 

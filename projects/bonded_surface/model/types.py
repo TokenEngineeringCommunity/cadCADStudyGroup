@@ -40,6 +40,9 @@ class TraderAgent():
   reserveAsset: float
   stableCoinSupply: float
   volatileTokenSupply: float
+  def trade() -> None:
+    
+
 
 
 @dataclass 
@@ -49,10 +52,11 @@ class TraderGrowthScenario():
   """
   step: float = 0.1
   growthType: str = 'flat'
+  
 
-
+  # our reserve asset is assumed to be usdc
   def generateTraders(self) -> List[TraderAgent]:
-      return [TraderAgent(id=1,reserveAsset=100,volatileTokenSupply=100,stableCoinSupply=100)]
+      return [TraderAgent(id=1,reserveAsset=100,volatileTokenSupply=0,stableCoinSupply=0)]
 
 class ModelState (TypedDict):
   days_passed: Days
