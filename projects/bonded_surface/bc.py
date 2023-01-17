@@ -29,7 +29,7 @@ def initialize():
     global rresult, svresult, ssresult, pvresult, psresult, deltaRresult, deltaSVresult, deltaSSresult
     global deltaPVresult, deltaPSresult, choice, choiceresult    
     
-    ir = 1.0 
+    ir = 1000000.0 
     mcv = 2*ir
     mcs= 0.5*ir 
     ss = mcs 
@@ -213,4 +213,5 @@ def showGraphs():
     #plt.plot(xresult, yresult)
     #plt.show()
 
+print(runSim())
     
